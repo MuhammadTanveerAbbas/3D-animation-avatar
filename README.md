@@ -21,7 +21,7 @@ A project for 3D animation with a cyber theme, featuring interactive graphics an
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/MuhammadTanveerAbbas/3D-animation-Cyber.git
+git clone https://github.com/MuhammadTanveerAbbas/3D-animation-avatar.git
 cd 3D-animation-Cyber
 ```
 
